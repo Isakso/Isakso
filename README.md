@@ -40,6 +40,12 @@ I am looking for opportunities in fullstack development, automation, testing and
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https:/https://https://manjehealth.com/manje_logo.svg/">
+    <img alt="manje logo" loading="lazy" width="220" height="50" decoding="async" data-nimg="1" style="color:transparent" src="/manje_logo.svg">
+    </a>
+</div>
 
 
 
