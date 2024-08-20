@@ -26,7 +26,7 @@ I am looking for opportunities in fullstack development, automation, testing and
 
 <div align="center">
     <!-- Replace href with your links -->
-    <a href="https:/https://www.linkedin.com/in/isaac-asaba-991bb7213/">
+    <a href="https:/https://https://www.linkedin.com/in/isaac-asaba-991bb7213/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
