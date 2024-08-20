@@ -2,6 +2,13 @@
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
@@ -18,7 +25,8 @@
 
 
 </details>
-
+I am currently undertaking Software Developer internship at Manje Health at the Smile Incubation Centre in Lund. This is part of my Agile Java Software Developer at Edugrade.
+I am looking for opportunities in fullstack development, automation, testing and scrum.
 
 | Rank | LANGUAGES     |
 |-----:|---------------|
@@ -27,8 +35,7 @@
 |     3|  Python       |
 
 
-I am currently undertaking Software Developer internship at Manje Health at the Smile Incubation Centre in Lund. This is part of my Agile Java Software Developer at Edugrade.
-I am looking for opportunities in fullstack development, automation, testing and scrum.
+
 <!--
 **Isakso/Isakso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
