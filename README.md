@@ -9,7 +9,7 @@
 </div>
 
 </details>
-I am currently undertaking Software Developer internship at Manje Health at the Smile Incubation Centre in Lund. This is part of my Agile Java Software Developer at Edugrade.
+I am currently undertaking a Software Developer internship at Manje Health at the Smile Incubation Centre in Lund. This is part of my Agile Java Software Developer at Edugrade.
 I am looking for opportunities in fullstack development, automation, testing and scrum.
 
 
