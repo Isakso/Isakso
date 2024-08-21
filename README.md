@@ -1,6 +1,6 @@
 ## Hi there 👋
 <details>
-<summary>SUMMARY OF LANGUAGES</summary>
+<summary>PROGRAMMING LANGUAGES</summary>
 
 <div align="center">
     <h1>
