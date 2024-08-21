@@ -12,6 +12,8 @@
 I am currently undertaking Software Developer internship at Manje Health at the Smile Incubation Centre in Lund. This is part of my Agile Java Software Developer at Edugrade.
 I am looking for opportunities in fullstack development, automation, testing and scrum.
 
+
+<div style="background-color: #FAECC1; padding: 20px; border-radius: 10px;">
 <div style="background-color: #D2B48C; padding: 20px; border-radius: 10px;">
 
 ## 🌍 Programming Languages
@@ -40,14 +42,35 @@ I am looking for opportunities in fullstack development, automation, testing and
     </a>
 </div>
 
-## 🌗 Adaptive Image
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Illustration of the sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+## 🎨 Custom Banner
 
+<div align="center">
+    <!-- Replace the src with the link to your custom banner image -->
+    <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+Project" alt="Custom Banner" width="800" height="200">
 </div>
 
+---
 
+## 🔗 Explore My Repositories
+
+<div align="center">
+    <a href="https://github.com/your-username?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories"/>
+    </a>
+</div>
+
+---
+
+## 🚀 Technologies Used
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
+    <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" alt="REST API Badge"/>
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+</div>
+
+</div>
