@@ -1,6 +1,6 @@
 ## Hi there 👋
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>SUMMARY OF LANGUAGES</summary>
 
 <div align="center">
     <h1>
