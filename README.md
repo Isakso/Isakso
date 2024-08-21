@@ -8,46 +8,49 @@
     </h1>
 </div>
 
-
-
-
-
-
-
 </details>
 I am currently undertaking Software Developer internship at Manje Health at the Smile Incubation Centre in Lund. This is part of my Agile Java Software Developer at Edugrade.
 I am looking for opportunities in fullstack development, automation, testing and scrum.
 
+<div style="background-color: #D2B48C; padding: 20px; border-radius: 10px;">
+
+## 🌍 Programming Languages
+
 | Rank | LANGUAGES     |
 |-----:|---------------|
-|     1|    Java       |
-|     2|    C#         |
-|     3|  Python       |
+|     1| <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/> |
+|     2| <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/> |
+|     3| <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> |
+
+---
+
+## 🔗 Connect with Me
 
 <div align="center">
-    <!-- Replace href with your links -->
-    <a href="https:/https://https://www.linkedin.com/in/isaac-asaba-991bb7213/">
+    <a href="https://www.linkedin.com/in/isaac-asaba-991bb7213/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
+
+## 🌟 Project Logo
+
 <div align="center">
-    <!-- Replace href with your links -->
-    <a href="https:/https://https://manjehealth.com/manje_logo.svg/">
-    <img alt="manje logo" loading="lazy" width="220" height="50" decoding="async" data-nimg="1" style="color:transparent" src="/manje_logo.svg">
+    <a href="https://manjehealth.com/">
+        <img alt="Manje Logo" src="https://manjehealth.com/manje_logo.svg" width="220" height="50">
     </a>
 </div>
 
+## 🌗 Adaptive Image
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-
+  <img alt="Illustration of the sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+</div>
 
 
-<!--
 **Isakso/Isakso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
