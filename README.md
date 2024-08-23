@@ -71,6 +71,14 @@ I am looking for opportunities in fullstack development, automation, testing and
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
     <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+    <img src="https://img.shields.io/badge/Eureka-%236DB33F.svg?style=for-the-badge&logo=eureka&logoColor=white" alt="Eureka Badge"/>
+    <img src="https://img.shields.io/badge/API%20Gateway-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" alt="API Gateway Badge"/>
+    <img src="https://img.shields.io/badge/Mockito-%23000000.svg?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito Badge"/>
+    <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven Badge"/>
+    <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
+    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
+    <img src="https://img.shields.io/badge/Windows%20Forms-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms Badge"/>
+
 </div>
 
 </div>
