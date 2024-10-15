@@ -78,6 +78,8 @@ I am looking for opportunities in fullstack development, automation, testing and
     <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
     <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
     <img src="https://img.shields.io/badge/Windows%20Forms-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+    
 </a>
 </div>
 
