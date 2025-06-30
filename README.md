@@ -9,7 +9,7 @@
 </div>
 
 </details>
-I am a Software Intern at Manje Health at the Smile Incubation Centre in Lund. This is part of my Agile Java Software Developer Programme at Edugrade.
+I am a software developer with a strong foundation in fullstack development, automation, and agile methodologies. My recent experience includes working in collaborative Scrum teams to deliver real-world software solutions with a focus on clean code, quality, and continuous improvement.
 I am looking for opportunities in fullstack development, automation, testing and scrum.
 
 
