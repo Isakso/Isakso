@@ -46,10 +46,6 @@ I am looking for opportunities in fullstack development, automation, testing and
 
 ## 🎨 Custom Banner
 
-<div align="center">
-    
-    <img src="C:\Users\asaba\Desktop\aretha-dev\public\teddy.jpg" alt="Custom Banner" width="800" height="200">
-</div>
 
 ---
 
