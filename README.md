@@ -47,8 +47,8 @@ I am looking for opportunities in fullstack development, automation, testing and
 ## 🎨 Custom Banner
 
 <div align="center">
-    <!-- Replace the src with the link to your custom banner image -->
-    <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+Project" alt="Custom Banner" width="800" height="200">
+    
+    <img src="C:\Users\asaba\Desktop\aretha-dev\public\teddy.jpg" alt="Custom Banner" width="800" height="200">
 </div>
 
 ---
