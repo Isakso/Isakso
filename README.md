@@ -40,6 +40,10 @@ I am looking for opportunities in fullstack development, automation, testing and
     <a href="https://manjehealth.com/">
         <img alt="Manje Logo" src="https://manjehealth.com/manje_logo.svg" width="220" height="50">
     </a>
+    <br><br>
+    <a href="https://oceanzhub.com/">
+        <img alt="Oceans Hub Logo" src="https://oceanzhub.com/_next/static/media/logo.9bb76112.webp" width="220" height="50">
+    </a>
 </div>
 
 ---
