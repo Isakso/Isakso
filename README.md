@@ -36,15 +36,22 @@ I am looking for opportunities in fullstack development, automation, testing and
 
 ## 🌟 Project Logo
 
-<div align="center">
-    <a href="https://manjehealth.com/">
-        <img alt="Manje Logo" src="https://manjehealth.com/manje_logo.svg" width="220" height="50">
+<div style="text-align:center;">
+    <a href="https://manjehealth.com/" target="_blank" style="display:inline-block; margin:10px;">
+        <img 
+            alt="Manje Health Logo" 
+            src="https://manjehealth.com/manje_logo.svg" 
+            style="max-height:50px; height:auto; width:auto;">
     </a>
-    <br><br>
-    <a href="https://oceanzhub.com/">
-        <img alt="Oceans Hub Logo" src="https://oceanzhub.com/_next/static/media/logo.9bb76112.webp" width="220" height="50">
+
+    <a href="https://oceanzhub.com/" target="_blank" style="display:inline-block; margin:10px;">
+        <img 
+            alt="Oceans Hub Logo" 
+            src="https://oceanzhub.com/_next/static/media/logo.9bb76112.webp" 
+            style="max-height:50px; height:auto; width:auto;">
     </a>
 </div>
+
 
 ---
 
