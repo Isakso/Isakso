@@ -66,6 +66,16 @@ I am looking for opportunities in fullstack development, automation, testing and
     <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
     <img src="https://img.shields.io/badge/Windows%20Forms-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms Badge"/>
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/>
+<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
+<img src="https://img.shields.io/badge/Argo%20CD-FE4B00.svg?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD Badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+<img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+
     
 </a>
 </div>
