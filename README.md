@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <div align="center">
 
@@ -20,17 +20,16 @@
 
 ## 👨‍💻 About Me
 
-I’m a software developer with experience across **fullstack development, backend engineering, cloud infrastructure, DevOps, testing, and automation**.
+I’m a software developer with experience across fullstack development, backend engineering, cloud infrastructure, DevOps, testing, and automation.
 
 I enjoy working across the entire software development lifecycle — from building applications and APIs to testing, containerizing, deploying, and monitoring them.
 
-I'm currently interested in opportunities in:
-
-- 🚀 Fullstack Development
-- ⚙️ Backend Engineering
-- ☁️ Cloud & DevOps
-- 🧪 QA & Test Automation
-- 🔄 CI/CD & Infrastructure Automation
+Currently interested in opportunities in:
+- Fullstack Development
+- Backend Engineering
+- Cloud & DevOps
+- QA & Test Automation
+- CI/CD & Infrastructure Automation
 
 ---
 
@@ -43,11 +42,9 @@ I'm currently interested in opportunities in:
 <td width="50%">
 
 ### 🖥️ Software Development
-
 - Fullstack applications
-- REST APIs
-- Microservices
-- Backend development
+- REST APIs & Microservices
+- Backend systems and integrations
 - Modern web applications
 
 </td>
@@ -55,13 +52,11 @@ I'm currently interested in opportunities in:
 <td width="50%">
 
 ### ☁️ Cloud & DevOps
-
-- Docker & containers
+- Docker & containerization
 - Kubernetes
-- Azure
-- Terraform
-- CI/CD
-- Infrastructure automation
+- Azure & cloud-native patterns
+- Terraform & infrastructure as code
+- CI/CD pipelines
 
 </td>
 </tr>
@@ -70,24 +65,18 @@ I'm currently interested in opportunities in:
 <td width="50%">
 
 ### 🧪 Quality & Automation
-
-- Automated testing
-- Unit testing
-- Integration testing
-- API testing
-- CI quality checks
+- Automated testing (unit & integration)
+- API testing and test automation
+- CI quality checks and pipelines
 
 </td>
 
 <td width="50%">
 
 ### 🏗️ Architecture
-
-- Microservices
-- Distributed systems
-- Cloud-native applications
-- API architecture
-- Scalable infrastructure
+- Microservices & distributed systems
+- API design and scalable architectures
+- Observability and monitoring
 
 </td>
 </tr>
@@ -97,75 +86,86 @@ I'm currently interested in opportunities in:
 
 ---
 
-## 🌍 Programming Languages
+## 🌍 Languages & Frameworks
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-
 </div>
 
 ---
 
-## 🎨 Frontend
+## 🛠️ Tools & Platforms
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-</div>
-
----
-
-## ⚙️ Backend
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-
-</div>
-
----
-
-## ☁️ Cloud & DevOps
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
 </div>
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases & Persistence
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
 </div>
 
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+<a href="https://github.com/Isakso" target="_blank">
+<img src="https://img.shields.io/badge/📦%20PadalaPesa-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Isakso" target="_blank">
+<img src="https://img.shields.io/badge/🏥%20Omnicare360-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Isakso" target="_blank">
+<img src="https://img.shields.io/badge/🖼️%20AreArt-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+---
+
+## 🏗️ Current Focus
+
+Fullstack Development → Backend & Microservices → Testing & Automation → Docker & Containers → Kubernetes → CI/CD → Cloud Infrastructure → Monitoring & Observability
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/isaac-asaba-991bb7213/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Isakso?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+If you'd like, I can:
+- shorten this into a compact README summary,
+- generate a custom banner SVG,
+- or create a minimal version optimized for GitHub profile display.
 ---
 
 ## 🧪 Testing & Quality
@@ -194,7 +194,7 @@ I'm currently interested in opportunities in:
 </a>
 
 <a href="https://github.com/Isakso">
-<img src="https://img.shields.io/badge/🖼️%20AreArt-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🖼️%20MangeHealth-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
