@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <strong>Fullstack Developer · DevOps · Automation · Cloud</strong>
+  <strong>Fullstack Developer ·DevOps · Automation · Cloud</strong>
 </p>
 
 <p>
