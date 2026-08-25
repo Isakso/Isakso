@@ -146,15 +146,15 @@ Currently interested in opportunities in:
 ## 🏗️ Featured Projects
 
 <div align="center">
-<a href="https://github.com/Isakso" target="_blank">
+<a href="https://github.com/PadalaPesa/padapesa"_blank">
 <img src="https://img.shields.io/badge/📦%20PadalaPesa-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Isakso" target="_blank">
+<a href="https://github.com/oceanzhub1/Omnicare360"target="_blank">
 <img src="https://img.shields.io/badge/🏥%20Omnicare360-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Isakso" target="_blank">
+<a href="https://github.com/Manje-Health/manje-frontend" target="_blank">
 <img src="https://img.shields.io/badge/🖼️%20AreArt-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
