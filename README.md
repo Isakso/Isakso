@@ -89,26 +89,29 @@ Currently interested in opportunities in:
 ## 🌍 Languages & Frameworks
 
 <div align="center">
+
+<!-- Unified, consistent badges -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
 </div>
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ Tools, Platforms & DevOps
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
 </div>
 
 ---
@@ -116,10 +119,26 @@ Currently interested in opportunities in:
 ## 🗄️ Databases & Persistence
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub Summary (optional)
+
+<div align="center">
+
+<!-- Optional visual summary — uncomment if you want to enable -->
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=Isakso&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isakso&layout=compact&theme=tokyonight" alt="Top languages" />
+-->
+
 </div>
 
 ---
@@ -144,83 +163,18 @@ Currently interested in opportunities in:
 
 ## 🏗️ Current Focus
 
-Fullstack Development → Backend & Microservices → Testing & Automation → Docker & Containers → Kubernetes → CI/CD → Cloud Infrastructure → Monitoring & Observability
-
----
-
-## 🔗 Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/isaac-asaba-991bb7213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Isakso?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-If you'd like, I can:
-- shorten this into a compact README summary,
-- generate a custom banner SVG,
-- or create a minimal version optimized for GitHub profile display.
----
-
-## 🧪 Testing & Quality
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Testing-000000?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+- Fullstack Development
+- Backend & Microservices
+- Testing & Automation
+- Docker & Containers
+- Kubernetes
+- CI/CD & Infrastructure Automation
+- Cloud Infrastructure
+- Monitoring & Observability
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Isakso">
-<img src="https://img.shields.io/badge/📦%20PadalaPesa-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Isakso">
-<img src="https://img.shields.io/badge/🏥%20Omnicare360-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Isakso">
-<img src="https://img.shields.io/badge/🖼️%20MangeHealth-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🏗️ Current Focus
-
-<div align="center">
-
-```text
-Fullstack Development
-        ↓
-Backend & Microservices
-        ↓
-Testing & Automation
-        ↓
-Docker & Containers
-        ↓
-Kubernetes
-        ↓
-CI/CD
-        ↓
-Cloud Infrastructure
-        ↓
-Monitoring & Observability
 
 ---
 
@@ -276,6 +230,4 @@ Monitoring & Observability
 
     
 </a>
-</div>
-
 </div>
