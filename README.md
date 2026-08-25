@@ -22,7 +22,7 @@
 
 I’m a software developer with experience across fullstack development, backend engineering, cloud infrastructure, DevOps, testing, and automation.
 
-I enjoy working across the entire software development lifecycle — from building applications and APIs to testing, containerizing, deploying, and monitoring them.
+I enjoy working across the entire software development lifecycle from building applications and APIs to testing, containerizing, deploying, and monitoring them.
 
 Currently interested in opportunities in:
 - Fullstack Development
@@ -163,7 +163,7 @@ Currently interested in opportunities in:
 
 ## 🏗️ Current Focus
 
-<div align="center">
+<div align="left">
 
 - Fullstack Development
 - Backend & Microservices
