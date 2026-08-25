@@ -1,30 +1,226 @@
 ## Hi there 👋
-<details>
-<summary>SUMMARY</summary>
 
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Isaac+Asaba;Fullstack+Developer;DevOps+%7C+Automation+%7C+Cloud" alt="Typing SVG"/>
+
+<br/>
+
+<p>
+  <strong>Fullstack Developer · DevOps · Automation · Cloud</strong>
+</p>
+
+<p>
+  Building reliable, scalable and maintainable software.
+</p>
+
 </div>
 
-</details>
-I am a software developer with a strong foundation in fullstack development, automation, and agile methodologies. My recent experience includes working in collaborative Scrum teams to deliver real-world software solutions with a focus on clean code, quality, and continuous improvement.
-I am looking for opportunities in fullstack development, automation, testing and scrum.
+---
 
+## 👨‍💻 About Me
 
-<div style="background-color: #FAECC1; padding: 20px; border-radius: 10px;">
-<div style="background-color: #D2B48C; padding: 20px; border-radius: 10px;">
+I’m a software developer with experience across **fullstack development, backend engineering, cloud infrastructure, DevOps, testing, and automation**.
+
+I enjoy working across the entire software development lifecycle — from building applications and APIs to testing, containerizing, deploying, and monitoring them.
+
+I'm currently interested in opportunities in:
+
+- 🚀 Fullstack Development
+- ⚙️ Backend Engineering
+- ☁️ Cloud & DevOps
+- 🧪 QA & Test Automation
+- 🔄 CI/CD & Infrastructure Automation
+
+---
+
+## 🚀 What I Do
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ Software Development
+
+- Fullstack applications
+- REST APIs
+- Microservices
+- Backend development
+- Modern web applications
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+
+- Docker & containers
+- Kubernetes
+- Azure
+- Terraform
+- CI/CD
+- Infrastructure automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧪 Quality & Automation
+
+- Automated testing
+- Unit testing
+- Integration testing
+- API testing
+- CI quality checks
+
+</td>
+
+<td width="50%">
+
+### 🏗️ Architecture
+
+- Microservices
+- Distributed systems
+- Cloud-native applications
+- API architecture
+- Scalable infrastructure
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🌍 Programming Languages
 
-| Rank | LANGUAGES     |
-|-----:|---------------|
-|     1| <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/> |
-|     2| <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/> |
-|     3| <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> |
-|     4|  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+<div align="center">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+</div>
+
+---
+
+## 🎨 Frontend
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</div>
+
+---
+
+## ⚙️ Backend
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+</div>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</div>
+
+---
+
+## 🧪 Testing & Quality
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Testing-000000?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Isakso">
+<img src="https://img.shields.io/badge/📦%20PadalaPesa-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Isakso">
+<img src="https://img.shields.io/badge/🏥%20Omnicare360-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Isakso">
+<img src="https://img.shields.io/badge/🖼️%20AreArt-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🏗️ Current Focus
+
+<div align="center">
+
+```text
+Fullstack Development
+        ↓
+Backend & Microservices
+        ↓
+Testing & Automation
+        ↓
+Docker & Containers
+        ↓
+Kubernetes
+        ↓
+CI/CD
+        ↓
+Cloud Infrastructure
+        ↓
+Monitoring & Observability
 
 ---
 
