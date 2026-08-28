@@ -128,19 +128,9 @@ Currently interested in opportunities in:
 
 ---
 
-## 📊 GitHub Summary
 
-<div align="center">
 
-<!-- Optional visual summary — uncomment if you want to enable -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=Isakso&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isakso&layout=compact&theme=tokyonight" alt="Top languages" />
--->
 
-</div>
-
----
 
 ## 🏗️ Featured Projects
 <div align="center">
