@@ -167,7 +167,7 @@ Currently interested in opportunities in:
 </a>
 
 </div>
----
+
 
 ## 🏗️ Current Focus
 
