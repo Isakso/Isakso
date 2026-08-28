@@ -149,21 +149,21 @@ Currently interested in opportunities in:
   <img src="https://img.shields.io/badge/PadalaPesa-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://padapesa.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PadaPesa Website">
 </a>
 
 <a href="https://github.com/oceanzhub1/Omnicare360" target="_blank">
   <img src="https://img.shields.io/badge/Omnicare360-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://oceanzhub.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OceanzHub Website"/>
 </a>
 
 <a href="https://github.com/Manje-Health" target="_blank">
   <img src="https://img.shields.io/badge/Manje%20Health-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://manjehealth.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Manje Health Website"/>
 </a>
 
 </div>
