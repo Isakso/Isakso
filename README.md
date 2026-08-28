@@ -128,7 +128,7 @@ Currently interested in opportunities in:
 
 ---
 
-## 📊 GitHub Summary (optional)
+## 📊 GitHub Summary
 
 <div align="center">
 
