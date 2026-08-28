@@ -147,14 +147,17 @@ Currently interested in opportunities in:
 <div align="center">
 <a href="https://github.com/PadalaPesa" target="_blank">
 <img src="https://img.shields.io/badge/📦%20PadalaPesa-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a> <a href="https://padapesa.com/" target="_blank"> <img
 </a>
 
 <a href="https://github.com/oceanzhub1/Omnicare360" target="_blank">
 <img src="https://img.shields.io/badge/🏥%20Omnicare360-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://oceanzhub.com/" target="_blank">
 </a>
 
 <a href="https://github.com/Manje-Health" target="_blank">
 <img src="https://img.shields.io/badge/🖼️%20Manje%20Health-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://manjehealth.com/" target="_blank">
 </a>
 </div>
 
