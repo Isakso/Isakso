@@ -185,7 +185,6 @@ Currently interested in opportunities in:
 </div>
 
 
-## 🎨 Custom Banner
 
 
 ---
