@@ -192,7 +192,7 @@ Currently interested in opportunities in:
 ## 🔗 Explore My Repositories
 
 <div align="center">
-    <a href="https://github.com/Isakso?tab=repositories" target="_blank">
+    <a href="https://github.com/Isakso" target="_blank">
         <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories"/>
     </a>
 </div>
