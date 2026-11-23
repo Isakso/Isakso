@@ -31,6 +31,35 @@ Currently interested in opportunities in:
 - CI/CD & Infrastructure Automation
 
 ---
+## 🏗️ Featured Projects
+
+Explore some of my projects. Visit the live websites or explore their source code.
+
+### PadalaPesa
+<a href="https://padapesa.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="PadalaPesa Website"/>
+</a>
+<a href="https://github.com/PadalaPesa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="PadalaPesa GitHub"/>
+</a>
+
+### OceanzHub
+<a href="https://oceanzhub.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="OceanzHub Website"/>
+</a>
+
+### Manje Health
+<a href="https://manjehealth.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Manje Health Website"/>
+</a>
+<a href="https://github.com/Manje-Health" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Manje Health GitHub"/>
+</a>
+
+### Omnicare360
+<a href="https://github.com/oceanzhub1/Omnicare360" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Omnicare360 GitHub"/>
+</a>
 
 ## 🚀 What I Do
 
@@ -128,35 +157,6 @@ Currently interested in opportunities in:
 
 ---
 
-
-
-
-
-## 🏗️ Featured Projects
-<div align="center">
-
-<a href="https://github.com/PadalaPesa" target="_blank">
-  <img src="https://img.shields.io/badge/PadalaPesa-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://padapesa.com/" target="_blank">
- <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PadaPesa Website">
-</a>
-
-<a href="https://github.com/oceanzhub1/Omnicare360" target="_blank">
-  <img src="https://img.shields.io/badge/Omnicare360-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://oceanzhub.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OceanzHub Website"/>
-</a>
-
-<a href="https://github.com/Manje-Health" target="_blank">
-  <img src="https://img.shields.io/badge/Manje%20Health-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://manjehealth.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Manje Health Website"/>
-</a>
-
-</div>
 
 
 ## 🏗️ Current Focus
