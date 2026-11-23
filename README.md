@@ -42,12 +42,10 @@ Explore some of my projects. Visit the live websites or explore their source cod
 <a href="https://github.com/PadalaPesa" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="PadalaPesa GitHub"/>
 </a>
-
 ### OceanzHub
 <a href="https://oceanzhub.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visit_Website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="OceanzHub Website"/>
 </a>
-
 ### Manje Health
 <a href="https://manjehealth.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visit_Website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Manje Health Website"/>
@@ -55,7 +53,6 @@ Explore some of my projects. Visit the live websites or explore their source cod
 <a href="https://github.com/Manje-Health" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Manje Health GitHub"/>
 </a>
-
 ### Omnicare360
 <a href="https://github.com/oceanzhub1/Omnicare360" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Omnicare360 GitHub"/>
