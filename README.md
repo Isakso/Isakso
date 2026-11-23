@@ -31,35 +31,43 @@ Currently interested in opportunities in:
 - CI/CD & Infrastructure Automation
 
 ---
+---
+
 ## 🏗️ Featured Projects
 
-Explore some of my projects. Visit the live websites or explore their source code.
+A selection of projects I've built and contributed to. Explore the live products or dive into their repositories.
 
-### PadalaPesa
+### 01. PadalaPesa
+
 <a href="https://padapesa.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="PadalaPesa Website"/>
+  <img src="https://img.shields.io/badge/↗_Live_Project-2563EB?style=flat-square&labelColor=111827" alt="Visit PadalaPesa"/>
 </a>
 <a href="https://github.com/PadalaPesa" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="PadalaPesa GitHub"/>
+  <img src="https://img.shields.io/badge/Source_Code-374151?style=flat-square&logo=github&logoColor=white&labelColor=111827" alt="PadalaPesa GitHub"/>
 </a>
 
-### OceanzHub
+### 02. OceanzHub
+
 <a href="https://oceanzhub.com/" target="_blank">
- <a href=" https://github.com/oceanzhub1" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="OceanzHub Website"/>
+  <img src="https://img.shields.io/badge/↗_Live_Project-2563EB?style=flat-square&labelColor=111827" alt="Visit OceanzHub"/>
+</a>
+<a href="https://github.com/oceanzhub1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Profile-374151?style=flat-square&logo=github&logoColor=white&labelColor=111827" alt="OceanzHub GitHub"/>
 </a>
 
-### Manje Health
+### 03. Manje Health
+
 <a href="https://manjehealth.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Manje Health Website"/>
+  <img src="https://img.shields.io/badge/↗_Live_Project-2563EB?style=flat-square&labelColor=111827" alt="Visit Manje Health"/>
 </a>
 <a href="https://github.com/Manje-Health" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Manje Health GitHub"/>
+  <img src="https://img.shields.io/badge/Source_Code-374151?style=flat-square&logo=github&logoColor=white&labelColor=111827" alt="Manje Health GitHub"/>
 </a>
 
-### Omnicare360
+### 04. Omnicare360
+
 <a href="https://github.com/oceanzhub1/Omnicare360" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Omnicare360 GitHub"/>
+  <img src="https://img.shields.io/badge/Source_Code-374151?style=flat-square&logo=github&logoColor=white&labelColor=111827" alt="Omnicare360 GitHub"/>
 </a>
 
 ## 🚀 What I Do
